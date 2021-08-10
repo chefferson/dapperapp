@@ -1,6 +1,6 @@
 [![Node.js CI](https://github.com/rfp53-fec2-cyborg/catwalk/actions/workflows/node.js.yml/badge.svg)](https://github.com/rfp53-fec2-cyborg/catwalk/actions/workflows/node.js.yml)
-# Project Catwalk
-Project Catwalk is a front-end application for a mock e-commerce site. The site contains the below widgets with differing functionalities: product overview, related items and comparisions, and rating and reviews.
+# DapperApp
+DapperApp is a front-end application for a mock e-commerce site. The site contains the below widgets with differing functionalities: product overview, related items and comparisions, and rating and reviews.
 
 The application reads, inserts, and updates data via an API.
 
